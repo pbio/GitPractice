@@ -1,3 +1,7 @@
 Hello World
 
+<<<<<<< HEAD
 This is change number 2. It may cause issues. 
+=======
+These are my minor changes. That is all.
+>>>>>>> MinorChanges
